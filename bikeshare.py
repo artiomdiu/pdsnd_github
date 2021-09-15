@@ -1,3 +1,10 @@
+"""
+Created 2021-08-24
+
+The script imports data from three major cities in US (Chicago, New York City and Washington)
+and computes descriptive statistics.
+"""
+
 import time
 import pandas as pd
 import numpy as np
